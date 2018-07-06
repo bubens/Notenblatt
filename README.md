@@ -4,7 +4,7 @@ Notenblatt.fods ist ein LibreOfficeCalc Dokument dass den Notendurchschnitt für
 ### Format in .ots umwandeln
 Wenn das Dokument im Kollegium bereit gestellt wird, empfehle ich das Format der Datei in eine ODF-Spreadsheet-Template (Dateiendung `.ots`) umzuwandeln.
 ### Dokument schützen
-`Cell Protection` sollte unbedingt eingeschaltet sein. Das Dokument kommt mit einem voreingestellten Zellenschutz der allerdings noch aktiviert werden muss. Ich empfehle dringend, das verwendete Passwort für den Zellenschutz in der Datei anzugeben. Niemand erinnert sich in 2 Jahren an das vergebene Passwort und den Schaden richten unbedarfte Kolleg/innen im Regelfall nur am eigenen Dokument an (voraussgesetzt, das Dokument wird als `.ots` verteilt).
+`Cell Protection` sollte unbedingt eingeschaltet sein. Das Dokument kommt mit einem voreingestellten Zellenschutz, das Passwort für die Deaktivierung ist im Dokument in einer (in gedruckter Form nicht sichtbaren) Zelle angegeben. Ich empfehle dringend, das verwendete Passwort für den Zellenschutz in der Datei zu belassen (auch ggf. geänderte Passwörter). Niemand erinnert sich in 2 Jahren an das vergebene Passwort und den Schaden richten unbedarfte Kolleg/innen im Regelfall nur am eigenen Dokument an (voraussgesetzt, das Dokument wird als `.ots` verteilt).
 ## Installation/Download
 ### 1. Möglichkeit git
 Repository clonen und Dokument öffnen:
