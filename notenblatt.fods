@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2018-07-06T20:08:12.635759896</meta:creation-date><meta:editing-duration>PT8M16S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:title>Notenblatt Abschlussprüfungen</dc:title><dc:date>2018-07-06T20:27:59.676750763</dc:date><meta:document-statistic meta:table-count="1" meta:cell-count="273" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2018-07-06T20:08:12.635759896</meta:creation-date><meta:editing-duration>PT9M2S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:title>Notenblatt Abschlussprüfungen</dc:title><dc:date>2018-07-06T21:17:59.254016274</dc:date><meta:document-statistic meta:table-count="1" meta:cell-count="273" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -13,8 +13,8 @@
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Notenblatt">
-       <config:config-item config:name="CursorPositionX" config:type="int">10</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">9</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">11</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">21</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -91,7 +91,7 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ngH+/0xhc2VyZHJ1Y2tlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpMYXNlcmRydWNrZXIAAAAAAAAAAAAAAAAAAAAWAAMAwAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9TGFzZXJkcnVja2VyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpJbnB1dFNsb3Q6QXV0bwBQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUOAERVUExFWF9VTktOT1dO</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ngH+/0xhc2VyZHJ1Y2tlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpMYXNlcmRydWNrZXIAAAAAAAAAAAAAAAAAAAAWAAMAwAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9TGFzZXJkcnVja2VyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNABJbnB1dFNsb3Q6QXV0bwAAEgBDT01QQVRfRFVQTEVYX01PREUOAERVUExFWF9VTktOT1dO</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
   </config:config-item-set>
@@ -117,6 +117,7 @@ public function DEUTSCH()
 
 End Sub
 
+      
       
       </ooo:source-code>
      </ooo:module>
@@ -514,7 +515,7 @@ End Sub
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2018-07-06">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="20:59:42.917154188">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2018-07-06">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="21:17:11.850772824">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -606,8 +607,7 @@ End Sub
      </table:error-message>
     </table:content-validation>
    </table:content-validations>
-   <table:table table:name="Notenblatt" table:style-name="ta1" table:protected="true" table:protection-key="FQtm3FlAgiJFk3EPK9e4IaXuwzI=" table:protection-key-digest-algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
-    <loext:table-protection loext:select-protected-cells="true"/>
+   <table:table table:name="Notenblatt" table:style-name="ta1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false">
      <form:form form:name="Form" form:apply-filter="true" form:command-type="table" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="" xlink:type="simple">
       <form:properties>
@@ -756,7 +756,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B6] = &quot;FS&quot;;  ROUND( ( [.H6] * [.$F$27] + [.I6] * [.$G$27] + [.J6] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B6] = &quot;MS&quot;;   ROUND( ( [.H6] * [.$F$28] + [.I6] * [.$G$28] + [.J6] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B6] = &quot;FS&quot;; ROUND( ([.C6]*[.$J$27]+[.F6]*[.$K$27]+[.G6]*[.$L$27]+[.K6]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B6]  =&quot;MS&quot;; ROUND( ([.C6]*[.$J$28]+[.F6]*[.$K$28]+[.G6]*[.$L$28]+[.K6]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B6] = &quot;FS&quot;; ROUND( ([.C6]*[.$J$27]+[.F6]*[.$K$27]+[.G6]*[.$L$27]+[.K6]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B6]  =&quot;MS&quot;; ROUND( ([.C6]*[.$J$28]+[.F6]*[.$K$28]+[.G6]*[.$L$28]+[.K6]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L6]; IF( [.L6]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -796,7 +796,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B7] = &quot;FS&quot;;  ROUND( ( [.H7] * [.$F$27] + [.I7] * [.$G$27] + [.J7] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B7] = &quot;MS&quot;;   ROUND( ( [.H7] * [.$F$28] + [.I7] * [.$G$28] + [.J7] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B7] = &quot;FS&quot;; ROUND( ([.C7]*[.$J$27]+[.F7]*[.$K$27]+[.G7]*[.$L$27]+[.K7]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B7]  =&quot;MS&quot;; ROUND( ([.C7]*[.$J$28]+[.F7]*[.$K$28]+[.G7]*[.$L$28]+[.K7]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B7] = &quot;FS&quot;; ROUND( ([.C7]*[.$J$27]+[.F7]*[.$K$27]+[.G7]*[.$L$27]+[.K7]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B7]  =&quot;MS&quot;; ROUND( ([.C7]*[.$J$28]+[.F7]*[.$K$28]+[.G7]*[.$L$28]+[.K7]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L7]; IF( [.L7]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -836,7 +836,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B8] = &quot;FS&quot;;  ROUND( ( [.H8] * [.$F$27] + [.I8] * [.$G$27] + [.J8] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B8] = &quot;MS&quot;;   ROUND( ( [.H8] * [.$F$28] + [.I8] * [.$G$28] + [.J8] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B8] = &quot;FS&quot;; ROUND( ([.C8]*[.$J$27]+[.F8]*[.$K$27]+[.G8]*[.$L$27]+[.K8]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B8]  =&quot;MS&quot;; ROUND( ([.C8]*[.$J$28]+[.F8]*[.$K$28]+[.G8]*[.$L$28]+[.K8]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B8] = &quot;FS&quot;; ROUND( ([.C8]*[.$J$27]+[.F8]*[.$K$27]+[.G8]*[.$L$27]+[.K8]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B8]  =&quot;MS&quot;; ROUND( ([.C8]*[.$J$28]+[.F8]*[.$K$28]+[.G8]*[.$L$28]+[.K8]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L8]; IF( [.L8]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -876,7 +876,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B9] = &quot;FS&quot;;  ROUND( ( [.H9] * [.$F$27] + [.I9] * [.$G$27] + [.J9] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B9] = &quot;MS&quot;;   ROUND( ( [.H9] * [.$F$28] + [.I9] * [.$G$28] + [.J9] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B9] = &quot;FS&quot;; ROUND( ([.C9]*[.$J$27]+[.F9]*[.$K$27]+[.G9]*[.$L$27]+[.K9]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B9]  =&quot;MS&quot;; ROUND( ([.C9]*[.$J$28]+[.F9]*[.$K$28]+[.G9]*[.$L$28]+[.K9]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B9] = &quot;FS&quot;; ROUND( ([.C9]*[.$J$27]+[.F9]*[.$K$27]+[.G9]*[.$L$27]+[.K9]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B9]  =&quot;MS&quot;; ROUND( ([.C9]*[.$J$28]+[.F9]*[.$K$28]+[.G9]*[.$L$28]+[.K9]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L9]; IF( [.L9]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -916,7 +916,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B10] = &quot;FS&quot;;  ROUND( ( [.H10] * [.$F$27] + [.I10] * [.$G$27] + [.J10] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B10] = &quot;MS&quot;;   ROUND( ( [.H10] * [.$F$28] + [.I10] * [.$G$28] + [.J10] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B10] = &quot;FS&quot;; ROUND( ([.C10]*[.$J$27]+[.F10]*[.$K$27]+[.G10]*[.$L$27]+[.K10]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B10]  =&quot;MS&quot;; ROUND( ([.C10]*[.$J$28]+[.F10]*[.$K$28]+[.G10]*[.$L$28]+[.K10]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B10] = &quot;FS&quot;; ROUND( ([.C10]*[.$J$27]+[.F10]*[.$K$27]+[.G10]*[.$L$27]+[.K10]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B10]  =&quot;MS&quot;; ROUND( ([.C10]*[.$J$28]+[.F10]*[.$K$28]+[.G10]*[.$L$28]+[.K10]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L10]; IF( [.L10]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -956,7 +956,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B11] = &quot;FS&quot;;  ROUND( ( [.H11] * [.$F$27] + [.I11] * [.$G$27] + [.J11] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B11] = &quot;MS&quot;;   ROUND( ( [.H11] * [.$F$28] + [.I11] * [.$G$28] + [.J11] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B11] = &quot;FS&quot;; ROUND( ([.C11]*[.$J$27]+[.F11]*[.$K$27]+[.G11]*[.$L$27]+[.K11]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B11]  =&quot;MS&quot;; ROUND( ([.C11]*[.$J$28]+[.F11]*[.$K$28]+[.G11]*[.$L$28]+[.K11]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B11] = &quot;FS&quot;; ROUND( ([.C11]*[.$J$27]+[.F11]*[.$K$27]+[.G11]*[.$L$27]+[.K11]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B11]  =&quot;MS&quot;; ROUND( ([.C11]*[.$J$28]+[.F11]*[.$K$28]+[.G11]*[.$L$28]+[.K11]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L11]; IF( [.L11]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -996,7 +996,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B12] = &quot;FS&quot;;  ROUND( ( [.H12] * [.$F$27] + [.I12] * [.$G$27] + [.J12] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B12] = &quot;MS&quot;;   ROUND( ( [.H12] * [.$F$28] + [.I12] * [.$G$28] + [.J12] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B12] = &quot;FS&quot;; ROUND( ([.C12]*[.$J$27]+[.F12]*[.$K$27]+[.G12]*[.$L$27]+[.K12]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B12]  =&quot;MS&quot;; ROUND( ([.C12]*[.$J$28]+[.F12]*[.$K$28]+[.G12]*[.$L$28]+[.K12]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B12] = &quot;FS&quot;; ROUND( ([.C12]*[.$J$27]+[.F12]*[.$K$27]+[.G12]*[.$L$27]+[.K12]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B12]  =&quot;MS&quot;; ROUND( ([.C12]*[.$J$28]+[.F12]*[.$K$28]+[.G12]*[.$L$28]+[.K12]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L12]; IF( [.L12]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -1036,7 +1036,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B13] = &quot;FS&quot;;  ROUND( ( [.H13] * [.$F$27] + [.I13] * [.$G$27] + [.J13] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B13] = &quot;MS&quot;;   ROUND( ( [.H13] * [.$F$28] + [.I13] * [.$G$28] + [.J13] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B13] = &quot;FS&quot;; ROUND( ([.C13]*[.$J$27]+[.F13]*[.$K$27]+[.G13]*[.$L$27]+[.K13]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B13]  =&quot;MS&quot;; ROUND( ([.C13]*[.$J$28]+[.F13]*[.$K$28]+[.G13]*[.$L$28]+[.K13]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B13] = &quot;FS&quot;; ROUND( ([.C13]*[.$J$27]+[.F13]*[.$K$27]+[.G13]*[.$L$27]+[.K13]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B13]  =&quot;MS&quot;; ROUND( ([.C13]*[.$J$28]+[.F13]*[.$K$28]+[.G13]*[.$L$28]+[.K13]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L13]; IF( [.L13]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -1076,7 +1076,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B14] = &quot;FS&quot;;  ROUND( ( [.H14] * [.$F$27] + [.I14] * [.$G$27] + [.J14] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B14] = &quot;MS&quot;;   ROUND( ( [.H14] * [.$F$28] + [.I14] * [.$G$28] + [.J14] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B14] = &quot;FS&quot;; ROUND( ([.C14]*[.$J$27]+[.F14]*[.$K$27]+[.G14]*[.$L$27]+[.K14]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B14]  =&quot;MS&quot;; ROUND( ([.C14]*[.$J$28]+[.F14]*[.$K$28]+[.G14]*[.$L$28]+[.K14]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B14] = &quot;FS&quot;; ROUND( ([.C14]*[.$J$27]+[.F14]*[.$K$27]+[.G14]*[.$L$27]+[.K14]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B14]  =&quot;MS&quot;; ROUND( ([.C14]*[.$J$28]+[.F14]*[.$K$28]+[.G14]*[.$L$28]+[.K14]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L14]; IF( [.L14]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -1116,7 +1116,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B15] = &quot;FS&quot;;  ROUND( ( [.H15] * [.$F$27] + [.I15] * [.$G$27] + [.J15] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B15] = &quot;MS&quot;;   ROUND( ( [.H15] * [.$F$28] + [.I15] * [.$G$28] + [.J15] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B15] = &quot;FS&quot;; ROUND( ([.C15]*[.$J$27]+[.F15]*[.$K$27]+[.G15]*[.$L$27]+[.K15]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B15]  =&quot;MS&quot;; ROUND( ([.C15]*[.$J$28]+[.F15]*[.$K$28]+[.G15]*[.$L$28]+[.K15]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B15] = &quot;FS&quot;; ROUND( ([.C15]*[.$J$27]+[.F15]*[.$K$27]+[.G15]*[.$L$27]+[.K15]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B15]  =&quot;MS&quot;; ROUND( ([.C15]*[.$J$28]+[.F15]*[.$K$28]+[.G15]*[.$L$28]+[.K15]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L15]; IF( [.L15]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -1156,7 +1156,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B16] = &quot;FS&quot;;  ROUND( ( [.H16] * [.$F$27] + [.I16] * [.$G$27] + [.J16] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B16] = &quot;MS&quot;;   ROUND( ( [.H16] * [.$F$28] + [.I16] * [.$G$28] + [.J16] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B16] = &quot;FS&quot;; ROUND( ([.C16]*[.$J$27]+[.F16]*[.$K$27]+[.G16]*[.$L$27]+[.K16]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B16]  =&quot;MS&quot;; ROUND( ([.C16]*[.$J$28]+[.F16]*[.$K$28]+[.G16]*[.$L$28]+[.K16]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B16] = &quot;FS&quot;; ROUND( ([.C16]*[.$J$27]+[.F16]*[.$K$27]+[.G16]*[.$L$27]+[.K16]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B16]  =&quot;MS&quot;; ROUND( ([.C16]*[.$J$28]+[.F16]*[.$K$28]+[.G16]*[.$L$28]+[.K16]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L16]; IF( [.L16]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -1196,7 +1196,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B17] = &quot;FS&quot;;  ROUND( ( [.H17] * [.$F$27] + [.I17] * [.$G$27] + [.J17] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B17] = &quot;MS&quot;;   ROUND( ( [.H17] * [.$F$28] + [.I17] * [.$G$28] + [.J17] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B17] = &quot;FS&quot;; ROUND( ([.C17]*[.$J$27]+[.F17]*[.$K$27]+[.G17]*[.$L$27]+[.K17]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B17]  =&quot;MS&quot;; ROUND( ([.C17]*[.$J$28]+[.F17]*[.$K$28]+[.G17]*[.$L$28]+[.K17]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B17] = &quot;FS&quot;; ROUND( ([.C17]*[.$J$27]+[.F17]*[.$K$27]+[.G17]*[.$L$27]+[.K17]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B17]  =&quot;MS&quot;; ROUND( ([.C17]*[.$J$28]+[.F17]*[.$K$28]+[.G17]*[.$L$28]+[.K17]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L17]; IF( [.L17]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -1236,7 +1236,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B18] = &quot;FS&quot;;  ROUND( ( [.H18] * [.$F$27] + [.I18] * [.$G$27] + [.J18] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B18] = &quot;MS&quot;;   ROUND( ( [.H18] * [.$F$28] + [.I18] * [.$G$28] + [.J18] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B18] = &quot;FS&quot;; ROUND( ([.C18]*[.$J$27]+[.F18]*[.$K$27]+[.G18]*[.$L$27]+[.K18]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B18]  =&quot;MS&quot;; ROUND( ([.C18]*[.$J$28]+[.F18]*[.$K$28]+[.G18]*[.$L$28]+[.K18]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B18] = &quot;FS&quot;; ROUND( ([.C18]*[.$J$27]+[.F18]*[.$K$27]+[.G18]*[.$L$27]+[.K18]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B18]  =&quot;MS&quot;; ROUND( ([.C18]*[.$J$28]+[.F18]*[.$K$28]+[.G18]*[.$L$28]+[.K18]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L18]; IF( [.L18]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -1276,7 +1276,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B19] = &quot;FS&quot;;  ROUND( ( [.H19] * [.$F$27] + [.I19] * [.$G$27] + [.J19] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B19] = &quot;MS&quot;;   ROUND( ( [.H19] * [.$F$28] + [.I19] * [.$G$28] + [.J19] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B19] = &quot;FS&quot;; ROUND( ([.C19]*[.$J$27]+[.F19]*[.$K$27]+[.G19]*[.$L$27]+[.K19]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B19]  =&quot;MS&quot;; ROUND( ([.C19]*[.$J$28]+[.F19]*[.$K$28]+[.G19]*[.$L$28]+[.K19]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B19] = &quot;FS&quot;; ROUND( ([.C19]*[.$J$27]+[.F19]*[.$K$27]+[.G19]*[.$L$27]+[.K19]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B19]  =&quot;MS&quot;; ROUND( ([.C19]*[.$J$28]+[.F19]*[.$K$28]+[.G19]*[.$L$28]+[.K19]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L19]; IF( [.L19]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -1316,7 +1316,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B20] = &quot;FS&quot;;  ROUND( ( [.H20] * [.$F$27] + [.I20] * [.$G$27] + [.J20] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B20] = &quot;MS&quot;;   ROUND( ( [.H20] * [.$F$28] + [.I20] * [.$G$28] + [.J20] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B20] = &quot;FS&quot;; ROUND( ([.C20]*[.$J$27]+[.F20]*[.$K$27]+[.G20]*[.$L$27]+[.K20]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B20]  =&quot;MS&quot;; ROUND( ([.C20]*[.$J$28]+[.F20]*[.$K$28]+[.G20]*[.$L$28]+[.K20]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B20] = &quot;FS&quot;; ROUND( ([.C20]*[.$J$27]+[.F20]*[.$K$27]+[.G20]*[.$L$27]+[.K20]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B20]  =&quot;MS&quot;; ROUND( ([.C20]*[.$J$28]+[.F20]*[.$K$28]+[.G20]*[.$L$28]+[.K20]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L20]; IF( [.L20]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -1356,7 +1356,7 @@ End Sub
      <table:table-cell table:style-name="ce47" table:formula="of:=IF( [.B21] = &quot;FS&quot;;  ROUND( ( [.H21] * [.$F$27] + [.I21] * [.$G$27] + [.J21] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B21] = &quot;MS&quot;;   ROUND( ( [.H21] * [.$F$28] + [.I21] * [.$G$28] + [.J21] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B21] = &quot;FS&quot;; ROUND( ([.C21]*[.$J$27]+[.F21]*[.$K$27]+[.G21]*[.$L$27]+[.K21]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B21]  =&quot;MS&quot;; ROUND( ([.C21]*[.$J$28]+[.F21]*[.$K$28]+[.G21]*[.$L$28]+[.K21]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B21] = &quot;FS&quot;; ROUND( ([.C21]*[.$J$27]+[.F21]*[.$K$27]+[.G21]*[.$L$27]+[.K21]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B21]  =&quot;MS&quot;; ROUND( ([.C21]*[.$J$28]+[.F21]*[.$K$28]+[.G21]*[.$L$28]+[.K21]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L21]; IF( [.L21]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
@@ -1396,7 +1396,7 @@ End Sub
      <table:table-cell table:style-name="ce48" table:formula="of:=IF( [.B22] = &quot;FS&quot;;  ROUND( ( [.H22] * [.$F$27] + [.I22] * [.$G$27] + [.J22] * [.$H$27] ) / ( [.$F$27] + [.$G$27] + [.$H$27] ); 0 );  IF( [.B22] = &quot;MS&quot;;   ROUND( ( [.H22] * [.$F$28] + [.I22] * [.$G$28] + [.J22] * [.$H$28] ) / ( [.$F$28] + [.$G$28] + [.$H$28] ); 0 );   &quot;---&quot;  ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce50" table:formula="of:=IF( [.B22] = &quot;FS&quot;; ROUND( ([.C22]*[.$J$27]+[.F22]*[.$K$27]+[.G22]*[.$L$27]+[.K22]*[.$M$27])/SUM([.$J$27:.$M$27]); 0); IF( [.B22]  =&quot;MS&quot;; ROUND( ([.C22]*[.$J$28]+[.F22]*[.$K$28]+[.G22]*[.$L$28]+[.K22]*[.$M$28])/SUM([.$J$28:.$M$28]); 0); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
+     <table:table-cell table:style-name="ce50" table:formula="of:=IF( [.B22] = &quot;FS&quot;; ROUND( ([.C22]*[.$J$27]+[.F22]*[.$K$27]+[.G22]*[.$L$27]+[.K22]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B22]  =&quot;MS&quot;; ROUND( ([.C22]*[.$J$28]+[.F22]*[.$K$28]+[.G22]*[.$L$28]+[.K22]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce55" table:formula="of:=IF([.L22]; IF( [.L22]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
