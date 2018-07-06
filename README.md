@@ -9,7 +9,7 @@ Wenn das Dokument im Kollegium bereit gestellt wird, empfehle ich das Format der
 ### 1. Möglichkeit git
 Repository clonen und Dokument öffnen:
 ```shell
-git clone http://xyz.com/bubens/Notenblatt
+git clone https://github.com/bubens/Notenblatt.git
 cd Notenblatt
 localc notenblatt.fods
 ```
