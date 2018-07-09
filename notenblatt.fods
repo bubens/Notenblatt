@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2018-07-06T20:08:12.635759896</meta:creation-date><meta:editing-duration>PT9M2S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:title>Notenblatt Abschlussprüfungen</dc:title><dc:date>2018-07-06T21:17:59.254016274</dc:date><meta:document-statistic meta:table-count="1" meta:cell-count="273" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2018-07-06T20:08:12.635759896</meta:creation-date><meta:editing-duration>PT9M41S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:title>Notenblatt Abschlussprüfungen</dc:title><dc:date>2018-07-09T10:06:54.709892312</dc:date><meta:document-statistic meta:table-count="1" meta:cell-count="273" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -13,8 +13,8 @@
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Notenblatt">
-       <config:config-item config:name="CursorPositionX" config:type="int">11</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">21</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">12</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">6</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -25,15 +25,15 @@
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">2</config:config-item>
-       <config:config-item config:name="ZoomValue" config:type="int">112</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">76</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">Notenblatt</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1220</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1306</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">2</config:config-item>
-     <config:config-item config:name="ZoomValue" config:type="int">112</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">76</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
      <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
@@ -76,11 +76,18 @@
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
    <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Laserdrucker</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
     <config:config-item-map-entry>
      <config:config-item config:name="Language" config:type="string">de</config:config-item>
      <config:config-item config:name="Country" config:type="string">DE</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
      <config:config-item config:name="Variant" config:type="string"/>
      <config:config-item config:name="BeginLine" config:type="string"/>
      <config:config-item config:name="EndLine" config:type="string"/>
@@ -91,7 +98,7 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ngH+/0xhc2VyZHJ1Y2tlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpMYXNlcmRydWNrZXIAAAAAAAAAAAAAAAAAAAAWAAMAwAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9TGFzZXJkcnVja2VyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNABJbnB1dFNsb3Q6QXV0bwAAEgBDT01QQVRfRFVQTEVYX01PREUOAERVUExFWF9VTktOT1dO</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">gAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMApgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
   </config:config-item-set>
@@ -119,6 +126,7 @@ End Sub
 
       
       
+      
       </ooo:source-code>
      </ooo:module>
     </ooo:library-embedded>
@@ -134,24 +142,24 @@ End Sub
  </office:font-face-decls>
  <office:styles>
   <style:default-style style:family="table-cell">
-   <style:paragraph-properties style:tab-stop-distance="12.5mm"/>
+   <style:paragraph-properties style:tab-stop-distance="35.43pt"/>
    <style:text-properties style:font-name="Liberation Sans" fo:language="de" fo:country="DE" style:font-name-asian="DejaVu Sans" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <number:number-style style:name="N0">
    <number:number number:min-integer-digits="1"/>
   </number:number-style>
-  <number:currency-style style:name="N108P0" style:volatile="true">
+  <number:currency-style style:name="N122P0" style:volatile="true">
    <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
    <number:text> </number:text>
    <number:currency-symbol number:language="de" number:country="DE">€</number:currency-symbol>
   </number:currency-style>
-  <number:currency-style style:name="N108">
+  <number:currency-style style:name="N122">
    <style:text-properties fo:color="#ff0000"/>
    <number:text>-</number:text>
    <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
    <number:text> </number:text>
    <number:currency-symbol number:language="de" number:country="DE">€</number:currency-symbol>
-   <style:map style:condition="value()&gt;=0" style:apply-style-name="N108P0"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N122P0"/>
   </number:currency-style>
   <style:style style:name="Default" style:family="table-cell">
    <style:text-properties style:font-name-asian="WenQuanYi Micro Hei" style:font-family-asian="&apos;WenQuanYi Micro Hei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
@@ -159,7 +167,7 @@ End Sub
   <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
   </style:style>
-  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N108"/>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N122"/>
   <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
    <style:paragraph-properties fo:text-align="center"/>
@@ -177,55 +185,55 @@ End Sub
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="co1" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="36.48mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="103.41pt"/>
   </style:style>
   <style:style style:name="co2" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="22.58mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="64.01pt"/>
   </style:style>
   <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="17.15mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="48.61pt"/>
   </style:style>
   <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="16.6mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="47.06pt"/>
   </style:style>
   <style:style style:name="co5" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="17.69mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="50.14pt"/>
   </style:style>
   <style:style style:name="co6" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="14.43mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="40.9pt"/>
   </style:style>
   <style:style style:name="co7" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="15.24mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="43.2pt"/>
   </style:style>
   <style:style style:name="co8" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="13.34mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="37.81pt"/>
   </style:style>
   <style:style style:name="co9" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="14.69mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="41.64pt"/>
   </style:style>
   <style:style style:name="co10" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="16.33mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="46.29pt"/>
   </style:style>
   <style:style style:name="co11" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="22.33mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="63.3pt"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
-   <style:table-row-properties style:row-height="12.95mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
+   <style:table-row-properties style:row-height="36.71pt" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
   <style:style style:name="ro2" style:family="table-row">
-   <style:table-row-properties style:row-height="7.13mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
+   <style:table-row-properties style:row-height="20.21pt" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
   <style:style style:name="ro3" style:family="table-row">
-   <style:table-row-properties style:row-height="7.66mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
+   <style:table-row-properties style:row-height="21.71pt" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
   <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="21.15mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
+   <style:table-row-properties style:row-height="59.95pt" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
   <style:style style:name="ro5" style:family="table-row">
-   <style:table-row-properties style:row-height="4.52mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="12.81pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro6" style:family="table-row">
-   <style:table-row-properties style:row-height="7.92mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
+   <style:table-row-properties style:row-height="22.45pt" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
@@ -235,17 +243,17 @@ End Sub
   </number:boolean-style>
   <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="24pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-size-complex="24pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="end" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="2.01pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="2.01pt solid #000000" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
@@ -259,7 +267,7 @@ End Sub
   </style:style>
   <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="end" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default">
@@ -273,12 +281,12 @@ End Sub
   </style:style>
   <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="2.01pt solid #000000" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce13" style:family="table-cell" style:parent-style-name="Default">
@@ -286,50 +294,50 @@ End Sub
   </style:style>
   <style:style style:name="ce14" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce15" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.24pt solid #000000" style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce16" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="none" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="1.5pt solid #000000" fo:border-right="1.5pt solid #000000" fo:border-top="1.5pt solid #000000"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="none" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="1.5pt solid #000000" fo:border-right="none" fo:border-top="none"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="1.5pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="1.5pt solid #000000" fo:border-right="none" fo:border-top="none"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="end" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce21" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" style:rotation-angle="90" fo:border-top="2.01pt solid #000000" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce22" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" fo:background-color="#00ccff" style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.24pt solid #000000" fo:background-color="#00ccff" style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Default">
@@ -337,20 +345,20 @@ End Sub
   </style:style>
   <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="1.5pt solid #000000" style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="none" fo:border-top="none"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce28" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="2.01pt solid #000000" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce29" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="0.51pt solid #000000"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce30" style:family="table-cell" style:parent-style-name="Default">
@@ -358,99 +366,99 @@ End Sub
   </style:style>
   <style:style style:name="ce31" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="none" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="1.5pt solid #000000" fo:border-top="none"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce32" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="none" style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="1.5pt solid #000000" fo:border-top="none"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce33" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="1.5pt solid #000000" style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="1.5pt solid #000000" fo:border-top="none"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce34" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="2.01pt solid #000000" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce35" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="0.51pt solid #000000"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties style:font-name="Liberation Sans1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce36" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" fo:background-color="#ff9999" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce37" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.24pt solid #000000" fo:background-color="#ff9999" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce38" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="end" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0pt"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce39" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" fo:background-color="#ffff99" style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce40" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.24pt solid #000000" fo:background-color="#ffff99" style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce41" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="none" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="end" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0pt"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce42" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="1.5pt solid #000000" fo:border-right="1.5pt solid #000000" fo:border-top="1.5pt solid #000000"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce43" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="1.5pt solid #000000" fo:border-right="none" fo:border-top="none"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce44" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="1.5pt solid #000000" style:text-align-source="fix" style:repeat-content="false" fo:border-left="1.5pt solid #000000" fo:border-right="none" fo:border-top="none"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce45" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="none" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="none" fo:border-top="1.5pt solid #000000"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce46" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="0.51pt solid #000000"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties style:font-name="Liberation Sans1" fo:font-weight="bold" style:font-name-asian="WenQuanYi Micro Hei" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce47" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" fo:background-color="#dddddd" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce48" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.24pt solid #000000" fo:background-color="#dddddd" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce49" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" fo:background-color="#cccccc" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce50" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" fo:background-color="#cccccc" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="0.51pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
   </style:style>
   <style:style style:name="ce51" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="ce52" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" style:rotation-angle="90" fo:border-top="2.01pt solid #000000" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce53" style:family="table-cell" style:parent-style-name="Default">
@@ -458,41 +466,131 @@ End Sub
   </style:style>
   <style:style style:name="ce54" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
    <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
    <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
   </style:style>
   <style:style style:name="ce55" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
-   <style:table-cell-properties fo:border-bottom="2.24pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.24pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
    <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
   </style:style>
-  <style:style style:name="ce56" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce56" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce57" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce58" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce59" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce60" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce61" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce62" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce63" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce64" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce65" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce66" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce67" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce68" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce69" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce70" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N99">
+   <style:table-cell-properties fo:border-bottom="0.51pt solid #000000" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.51pt solid #000000" fo:border-right="2.01pt solid #000000" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:map style:condition="cell-content()=&quot;Ja&quot;" style:apply-style-name="Bestanden" style:base-cell-address="Notenblatt.M6"/>
+   <style:map style:condition="cell-content()=&quot;Nein&quot;" style:apply-style-name="Nicht_20_Bestanden" style:base-cell-address="Notenblatt.M6"/>
+  </style:style>
+  <style:style style:name="ce71" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="none" style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="1.5pt solid #000000" fo:border-top="1.5pt solid #000000"/>
-   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:page-layout style:name="pm1">
-   <style:page-layout-properties fo:page-width="297mm" fo:page-height="210.01mm" style:num-format="1" style:print-orientation="landscape" style:shadow="none" fo:background-color="transparent" style:writing-mode="lr-tb">
+   <style:page-layout-properties fo:page-width="841.89pt" fo:page-height="595.3pt" style:num-format="1" style:print-orientation="landscape" style:shadow="none" fo:background-color="transparent" style:writing-mode="lr-tb">
     <style:background-image/>
    </style:page-layout-properties>
    <style:header-style>
-    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm"/>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.09pt"/>
    </style:header-style>
    <style:footer-style>
-    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm"/>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.09pt"/>
    </style:footer-style>
   </style:page-layout>
   <style:page-layout style:name="pm2">
    <style:page-layout-properties style:writing-mode="lr-tb"/>
    <style:header-style>
-    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0">
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0">
      <style:background-image/>
     </style:header-footer-properties>
    </style:header-style>
    <style:footer-style>
-    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0">
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0">
      <style:background-image/>
     </style:header-footer-properties>
    </style:footer-style>
@@ -515,7 +613,7 @@ End Sub
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2018-07-06">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="21:17:11.850772824">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2018-07-09">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="10:06:15.246449061">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -759,8 +857,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B6] = &quot;FS&quot;; ROUND( ([.C6]*[.$J$27]+[.F6]*[.$K$27]+[.G6]*[.$L$27]+[.K6]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B6]  =&quot;MS&quot;; ROUND( ([.C6]*[.$J$28]+[.F6]*[.$K$28]+[.G6]*[.$L$28]+[.K6]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L6]; IF( [.L6]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L6]=&quot;---&quot;;&quot;---&quot;; IF( [.L6]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -799,8 +897,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B7] = &quot;FS&quot;; ROUND( ([.C7]*[.$J$27]+[.F7]*[.$K$27]+[.G7]*[.$L$27]+[.K7]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B7]  =&quot;MS&quot;; ROUND( ([.C7]*[.$J$28]+[.F7]*[.$K$28]+[.G7]*[.$L$28]+[.K7]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L7]; IF( [.L7]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce55" table:formula="of:=IF([.L7]=&quot;---&quot;;&quot;---&quot;; IF( [.L7]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -839,8 +937,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B8] = &quot;FS&quot;; ROUND( ([.C8]*[.$J$27]+[.F8]*[.$K$27]+[.G8]*[.$L$27]+[.K8]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B8]  =&quot;MS&quot;; ROUND( ([.C8]*[.$J$28]+[.F8]*[.$K$28]+[.G8]*[.$L$28]+[.K8]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L8]; IF( [.L8]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce56" table:formula="of:=IF([.L8]=&quot;---&quot;;&quot;---&quot;; IF( [.L8]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -879,8 +977,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B9] = &quot;FS&quot;; ROUND( ([.C9]*[.$J$27]+[.F9]*[.$K$27]+[.G9]*[.$L$27]+[.K9]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B9]  =&quot;MS&quot;; ROUND( ([.C9]*[.$J$28]+[.F9]*[.$K$28]+[.G9]*[.$L$28]+[.K9]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L9]; IF( [.L9]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce57" table:formula="of:=IF([.L9]=&quot;---&quot;;&quot;---&quot;; IF( [.L9]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -919,8 +1017,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B10] = &quot;FS&quot;; ROUND( ([.C10]*[.$J$27]+[.F10]*[.$K$27]+[.G10]*[.$L$27]+[.K10]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B10]  =&quot;MS&quot;; ROUND( ([.C10]*[.$J$28]+[.F10]*[.$K$28]+[.G10]*[.$L$28]+[.K10]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L10]; IF( [.L10]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce58" table:formula="of:=IF([.L10]=&quot;---&quot;;&quot;---&quot;; IF( [.L10]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -959,8 +1057,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B11] = &quot;FS&quot;; ROUND( ([.C11]*[.$J$27]+[.F11]*[.$K$27]+[.G11]*[.$L$27]+[.K11]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B11]  =&quot;MS&quot;; ROUND( ([.C11]*[.$J$28]+[.F11]*[.$K$28]+[.G11]*[.$L$28]+[.K11]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L11]; IF( [.L11]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce59" table:formula="of:=IF([.L11]=&quot;---&quot;;&quot;---&quot;; IF( [.L11]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -999,8 +1097,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B12] = &quot;FS&quot;; ROUND( ([.C12]*[.$J$27]+[.F12]*[.$K$27]+[.G12]*[.$L$27]+[.K12]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B12]  =&quot;MS&quot;; ROUND( ([.C12]*[.$J$28]+[.F12]*[.$K$28]+[.G12]*[.$L$28]+[.K12]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L12]; IF( [.L12]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce60" table:formula="of:=IF([.L12]=&quot;---&quot;;&quot;---&quot;; IF( [.L12]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1039,8 +1137,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B13] = &quot;FS&quot;; ROUND( ([.C13]*[.$J$27]+[.F13]*[.$K$27]+[.G13]*[.$L$27]+[.K13]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B13]  =&quot;MS&quot;; ROUND( ([.C13]*[.$J$28]+[.F13]*[.$K$28]+[.G13]*[.$L$28]+[.K13]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L13]; IF( [.L13]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce61" table:formula="of:=IF([.L13]=&quot;---&quot;;&quot;---&quot;; IF( [.L13]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1079,8 +1177,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B14] = &quot;FS&quot;; ROUND( ([.C14]*[.$J$27]+[.F14]*[.$K$27]+[.G14]*[.$L$27]+[.K14]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B14]  =&quot;MS&quot;; ROUND( ([.C14]*[.$J$28]+[.F14]*[.$K$28]+[.G14]*[.$L$28]+[.K14]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L14]; IF( [.L14]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce62" table:formula="of:=IF([.L14]=&quot;---&quot;;&quot;---&quot;; IF( [.L14]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1119,8 +1217,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B15] = &quot;FS&quot;; ROUND( ([.C15]*[.$J$27]+[.F15]*[.$K$27]+[.G15]*[.$L$27]+[.K15]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B15]  =&quot;MS&quot;; ROUND( ([.C15]*[.$J$28]+[.F15]*[.$K$28]+[.G15]*[.$L$28]+[.K15]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L15]; IF( [.L15]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce63" table:formula="of:=IF([.L15]=&quot;---&quot;;&quot;---&quot;; IF( [.L15]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1159,8 +1257,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B16] = &quot;FS&quot;; ROUND( ([.C16]*[.$J$27]+[.F16]*[.$K$27]+[.G16]*[.$L$27]+[.K16]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B16]  =&quot;MS&quot;; ROUND( ([.C16]*[.$J$28]+[.F16]*[.$K$28]+[.G16]*[.$L$28]+[.K16]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L16]; IF( [.L16]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce64" table:formula="of:=IF([.L16]=&quot;---&quot;;&quot;---&quot;; IF( [.L16]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1199,8 +1297,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B17] = &quot;FS&quot;; ROUND( ([.C17]*[.$J$27]+[.F17]*[.$K$27]+[.G17]*[.$L$27]+[.K17]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B17]  =&quot;MS&quot;; ROUND( ([.C17]*[.$J$28]+[.F17]*[.$K$28]+[.G17]*[.$L$28]+[.K17]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L17]; IF( [.L17]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce65" table:formula="of:=IF([.L17]=&quot;---&quot;;&quot;---&quot;; IF( [.L17]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1239,8 +1337,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B18] = &quot;FS&quot;; ROUND( ([.C18]*[.$J$27]+[.F18]*[.$K$27]+[.G18]*[.$L$27]+[.K18]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B18]  =&quot;MS&quot;; ROUND( ([.C18]*[.$J$28]+[.F18]*[.$K$28]+[.G18]*[.$L$28]+[.K18]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L18]; IF( [.L18]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce66" table:formula="of:=IF([.L18]=&quot;---&quot;;&quot;---&quot;; IF( [.L18]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1279,8 +1377,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B19] = &quot;FS&quot;; ROUND( ([.C19]*[.$J$27]+[.F19]*[.$K$27]+[.G19]*[.$L$27]+[.K19]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B19]  =&quot;MS&quot;; ROUND( ([.C19]*[.$J$28]+[.F19]*[.$K$28]+[.G19]*[.$L$28]+[.K19]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L19]; IF( [.L19]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce67" table:formula="of:=IF([.L19]=&quot;---&quot;;&quot;---&quot;; IF( [.L19]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1319,8 +1417,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B20] = &quot;FS&quot;; ROUND( ([.C20]*[.$J$27]+[.F20]*[.$K$27]+[.G20]*[.$L$27]+[.K20]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B20]  =&quot;MS&quot;; ROUND( ([.C20]*[.$J$28]+[.F20]*[.$K$28]+[.G20]*[.$L$28]+[.K20]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L20]; IF( [.L20]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce68" table:formula="of:=IF([.L20]=&quot;---&quot;;&quot;---&quot;; IF( [.L20]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1359,8 +1457,8 @@ End Sub
      <table:table-cell table:style-name="ce49" table:formula="of:=IF( [.B21] = &quot;FS&quot;; ROUND( ([.C21]*[.$J$27]+[.F21]*[.$K$27]+[.G21]*[.$L$27]+[.K21]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B21]  =&quot;MS&quot;; ROUND( ([.C21]*[.$J$28]+[.F21]*[.$K$28]+[.G21]*[.$L$28]+[.K21]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce54" table:formula="of:=IF([.L21]; IF( [.L21]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce69" table:formula="of:=IF([.L21]=&quot;---&quot;;&quot;---&quot;; IF( [.L21]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1399,8 +1497,8 @@ End Sub
      <table:table-cell table:style-name="ce50" table:formula="of:=IF( [.B22] = &quot;FS&quot;; ROUND( ([.C22]*[.$J$27]+[.F22]*[.$K$27]+[.G22]*[.$L$27]+[.K22]*[.$M$27])/SUM([.$J$27:.$M$27]); 1); IF( [.B22]  =&quot;MS&quot;; ROUND( ([.C22]*[.$J$28]+[.F22]*[.$K$28]+[.G22]*[.$L$28]+[.K22]*[.$M$28])/SUM([.$J$28:.$M$28]); 1); &quot;---&quot;))" office:value-type="string" office:string-value="---" calcext:value-type="string">
       <text:p>---</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce55" table:formula="of:=IF([.L22]; IF( [.L22]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ); &quot;---&quot; )" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#VALUE!</text:p>
+     <table:table-cell table:style-name="ce70" table:formula="of:=IF([.L22]=&quot;---&quot;;&quot;---&quot;; IF( [.L22]&gt;4; &quot;Nein&quot;; &quot;Ja&quot; ) )" office:value-type="string" office:string-value="---" calcext:value-type="string">
+      <text:p>---</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
@@ -1462,7 +1560,7 @@ End Sub
       <text:p>Verechnungsfaktoren Fächer</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="3" table:style-name="ce45"/>
-     <table:covered-table-cell table:style-name="ce56"/>
+     <table:covered-table-cell table:style-name="ce71"/>
      <table:table-cell table:number-columns-repeated="1011"/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
@@ -1578,7 +1676,71 @@ End Sub
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <calcext:conditional-formats>
-     <calcext:conditional-format calcext:target-range-address="Notenblatt.M6:Notenblatt.M22">
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M6:Notenblatt.M6">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M7:Notenblatt.M7">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M8:Notenblatt.M8">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M9:Notenblatt.M9">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M10:Notenblatt.M10">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M11:Notenblatt.M11">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M12:Notenblatt.M12">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M13:Notenblatt.M13">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M14:Notenblatt.M14">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M15:Notenblatt.M15">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M16:Notenblatt.M16">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M17:Notenblatt.M17">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M18:Notenblatt.M18">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M19:Notenblatt.M19">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M20:Notenblatt.M20">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M21:Notenblatt.M21">
+      <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+      <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Notenblatt.M22:Notenblatt.M22">
       <calcext:condition calcext:apply-style-name="Bestanden" calcext:value="=&quot;Ja&quot;" calcext:base-cell-address="Notenblatt.M6"/>
       <calcext:condition calcext:apply-style-name="Nicht Bestanden" calcext:value="=&quot;Nein&quot;" calcext:base-cell-address="Notenblatt.M6"/>
      </calcext:conditional-format>
